@@ -1,4 +1,4 @@
-package com.mvc.bike.models;
+package CTSAssessment.Java;
 
 public class Cargo {
     private Long id;

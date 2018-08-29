@@ -1,4 +1,4 @@
-package com.mvc.bike.models;
+package CTSAssessment.Java;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
