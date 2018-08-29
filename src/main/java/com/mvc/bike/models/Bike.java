@@ -1,4 +1,4 @@
-package com.globomatics.bike.models;
+package com.mvc.bike.models;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

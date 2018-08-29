@@ -1,6 +1,6 @@
-package com.globomatics.bike.repositories;
+package com.mvc.bike.repositories;
 
-import com.globomatics.bike.models.Bike;
+import com.mvc.bike.models.Bike;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

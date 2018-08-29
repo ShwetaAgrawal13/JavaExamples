@@ -1,4 +1,4 @@
-package com.globomatics.bike.controllers;
+package com.mvc.bike.controllers;
 
 /*
 @RestController

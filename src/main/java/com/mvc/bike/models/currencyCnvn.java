@@ -1,4 +1,4 @@
-package com.globomatics.bike.models;
+package com.mvc.bike.models;
 
 import java.io.BufferedReader;
 import java.io.IOException;

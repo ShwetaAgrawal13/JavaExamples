@@ -1,4 +1,4 @@
-package com.globomatics.bike.models;
+package com.mvc.bike.models;
 
 public class Transportation {
     int id;
